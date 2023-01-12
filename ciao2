@@ -1,0 +1,15 @@
+Ciao
+# Titolo
+## Titolo 2
+### Titolo 3
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` 
+$ git init 
+Repository Git vuoto inizializzato in /Users/skills/Projects/recipe-repository/.git/ 
+```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
